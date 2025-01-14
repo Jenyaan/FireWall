@@ -1,0 +1,25 @@
+﻿  Building 'KMDF_ICMP' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\KMDF_ICMP.inf
+  Stamping [Version] section with DriverVer=01/13/2025,20.23.10.494
+  Driver.c
+  Trigger.c
+  Создание кода...
+  KMDF_ICMP.vcxproj -> D:\Project\C++\Blog-Lab\writing-windows-kernel-drivers-for-advanced-persistence\KMDF_ICMP\x64\Debug\KMDF_ICMP.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Project\C++\Blog-Lab\writing-windows-kernel-drivers-for-advanced-persistence\KMDF_ICMP\x64\Debug\KMDF_ICMP.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Project\C++\Blog-Lab\writing-windows-kernel-drivers-for-advanced-persistence\KMDF_ICMP\x64\Debug\KMDF_ICMP\kmdf_icmp.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Project\C++\Blog-Lab\writing-windows-kernel-drivers-for-advanced-persistence\KMDF_ICMP\x64\Debug\KMDF_ICMP\kmdf_icmp.cat
+  
